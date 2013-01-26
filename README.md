@@ -1,3 +1,5 @@
+Dont use this library, it was auto gen made to use with pub
+
 # drive_v2_api
 
 ### Description
